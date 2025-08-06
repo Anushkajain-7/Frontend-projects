@@ -31,7 +31,7 @@ This repository is organized to showcase my progress in full stack development. 
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Anushkajain-7/Frontend Projects.git
+   git clone https://github.com/Anushkajain-7/Frontend-Projects.git
 
 ## Contributing
 Feel free to fork this repo, suggest improvements, or report issues. Contributions are always welcome!
