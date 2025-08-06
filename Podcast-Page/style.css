@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-1 {
+    font-family: 'Roboto';
+}
+
+.bg-3 {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    background-size: cover;
+    height: 250px;
+    width: 100vw;
+    padding: 20px;
+    color: #ffffff;
+    margin-bottom: 5px;
+}
+
+.h-2 {
+    font-size: 45px;
+    padding: 4px;
+    font-weight: 500;
+}
+
+.bg-2 {
+    padding: 15px;
+}
+
+.c-1{
+    margin: 10px;
+}
+
+.img-2 {
+    padding: 5px;
+    height: 120px;
+    width: 180px;
+    margin-top: 10px;
+}
+
+.c-2{
+    padding: 2px;
+    text-align: center;
+}
+
+.h-1{
+    color: #151765;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.p-1{
+    color: #5a7184;
+    font-size: 14px;
+}
+
+.c-3{
+    background-color: #151765;
+    padding: 15px;
+    color: #ffffff;
+    font-family: 'Roboto';
+    height: 180px;
+    width: 500px;
+}
+
+.img-3 {
+    padding: 5px;
+    margin: 5px;
+    height: 140px;
+    width: 200px;
+}
+
+.t-2{
+    height: 200px;
+    width: 200px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.t-1{
+    height: 200px;
+    width: 200px;
+    text-align: left;
+    margin-top: 5px;
+}
+
+.p-2{
+    font-size: 15px;
+}
+
+.h-3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.c-4{
+    padding: 15px;
+    font-family: 'Roboto';
+    height: 180px;
+    width: 580px;
+}
+
+.h-4{
+    color: #151765;
+    font-size: 12px;
+}
+
+.btn-1{
+    margin: 5px;
+    padding: 5px;
+    border-width: 0px;
+    height: 30px;
+    width: 80px;
+    color: #ffffff;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 15px;
+    background-color: #151765;
+}
